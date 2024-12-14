@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a5234c67-16fc-4214-84f1-48ce4165ad19",
+    "Name": "PhaRequests_ListPage",
+    "ModifiedOnUtc": "\/Date(1727433242000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests list page",
+    "DependsOn": []
+  }
+}

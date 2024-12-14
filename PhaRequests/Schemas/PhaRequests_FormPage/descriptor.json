@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "79b3a5f3-c0bb-4ae3-8d55-22ddb651d2ce",
+    "Name": "PhaRequests_FormPage",
+    "ModifiedOnUtc": "\/Date(1727433242000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests form page",
+    "DependsOn": []
+  }
+}

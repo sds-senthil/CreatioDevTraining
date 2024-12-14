@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "49766f48-47e3-4853-b592-5b0aa41b910b",
+    "Name": "PhaRequests",
+    "ModifiedOnUtc": "\/Date(1727433647000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests",
+    "DependsOn": []
+  }
+}

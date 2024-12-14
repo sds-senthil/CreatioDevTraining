@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "8664d5c3-cfd2-4e59-8252-630d34efa0c8",
+    "Name": "PhaRequests_Detail",
+    "ModifiedOnUtc": "\/Date(1727433242000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests detail",
+    "DependsOn": []
+  }
+}

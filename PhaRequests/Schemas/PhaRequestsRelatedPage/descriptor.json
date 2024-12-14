@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0dfca19a-4735-4e51-a5cd-140b8126b17e",
+    "Name": "PhaRequestsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1727433242000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requests (Page settings)",
+    "DependsOn": []
+  }
+}

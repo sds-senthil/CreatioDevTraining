@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "182fe5e3-dca5-4787-ac17-84a36cfe1cc4",
+    "Name": "PhaRequests",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1632313759000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/PhaRequests.csproj",
+    "DependsOn": [
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      }
+    ]
+  }
+}
